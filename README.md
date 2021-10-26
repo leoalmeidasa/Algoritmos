@@ -1,4 +1,6 @@
-## Algoritmos de Busca
+# Algoritmos de Busca
 
-# Linear Search
-# Binary Search
+- [x] Linear Search
+- [x] Binary Search
+- [] 
+- [] 
