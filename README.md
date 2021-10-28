@@ -8,5 +8,7 @@
 - [x] Counting Sort 
 
 # Algoritmos Gananciosos
-- [x] Minimum Sum
+- [x] Find Maximum
 - [x] Maximize Array
+- [x] Minimum Product
+- [x] Mnimum Sum
